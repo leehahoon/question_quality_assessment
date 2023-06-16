@@ -1,5 +1,7 @@
 # question_quality_assessment
 Task 3 of Diagnostic Questions competition, which was one of the NeurIPS 2020 Competitions.
+- term_project_task3.ipynb : Mid-term project
+- term_project_final.ipynb : Final project
 
 ## Features
 
